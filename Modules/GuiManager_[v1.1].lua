@@ -360,7 +360,7 @@ How to use each advanced function:
 			OnlyOnEnded -> boolean
 		)
 		
-How Setttings work:
+How Settings work:
 	Gui.updateSettings(setting, value) -- Changes the passed setting to the passed value
 	
 	> DisableGlobalEvents -> When true, all global bindable events associated with gui won't fire
