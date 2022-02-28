@@ -379,7 +379,7 @@ return Gui
 --[[
 Made by M_dgettMann (shadowflame63)
 
-GuiManager [v1]
+GuiManager [v1] (Testing versions)
                                     
 How to use each basic function:
 	Gui.new(name, props, parent) -- Creates the named ui, sets it properties and sets up the metatable
