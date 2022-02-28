@@ -60,7 +60,7 @@ local function metaSetup(ui : Instance) : any
 		rotatingChanged = Instance.new("BindableEvent"),
 		rotatingEnded = Instance.new("BindableEvent")
 	}
-	local tbl ={
+	local tbl = {
 		["Ui"] = ui,
 		["Connections"] = {},
 		["BindableEvents"] = table.freeze(events),
